@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="Diagrama.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#4c474b"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0.33333333"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="581.01202"
+     inkscape:cy="364.48348"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5146" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5140" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path5170" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path5155" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:4.99999;stroke-linecap:round;stroke-dashoffset:24.5669"
+       id="rect31"
+       width="297"
+       height="210"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="14.040406"
+       y="100.89523"
+       id="text2399"><tspan
+         sodipodi:role="line"
+         id="tspan2397"
+         style="stroke-width:0.110354"
+         x="14.040406"
+         y="100.89523">Space-Tools.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="66.716667"
+       y="101.36166"
+       id="text4205"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         style="stroke-width:0.110354"
+         x="66.716667"
+         y="101.36166">modules/</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 50.345903,99.758013 H 61.670459"
+       id="path4240" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 89.425838,99.695987 109.07566,75.913211"
+       id="path6353"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 89.425838,99.695987 113.42079,129.05706"
+       id="path6454"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="113.21326"
+       y="77.353279"
+       id="text6595"><tspan
+         sodipodi:role="line"
+         id="tspan6593"
+         style="stroke-width:0.110354"
+         x="113.21326"
+         y="77.353279">mailer/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="115.49508"
+       y="130.81602"
+       id="text6599"><tspan
+         sodipodi:role="line"
+         id="tspan6597"
+         style="stroke-width:0.110354"
+         x="115.49508"
+         y="130.81602">certificates/</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 131.89016,76.174242 h 11.32456"
+       id="path13711" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 143.70367,129.2018 h 11.32456"
+       id="path13713" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="145.55287"
+       y="76.947815"
+       id="text13717"><tspan
+         sodipodi:role="line"
+         id="tspan13715"
+         style="stroke-width:0.110354"
+         x="145.55287"
+         y="76.947815">InitGui.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="157.45801"
+       y="130.53979"
+       id="text14153"><tspan
+         sodipodi:role="line"
+         id="tspan14151"
+         style="stroke-width:0.110354"
+         x="157.45801"
+         y="130.53979">InitGui.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="11.058123"
+       y="106.33084"
+       id="text14157"><tspan
+         sodipodi:role="line"
+         id="tspan14155"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="11.058123"
+         y="106.33084">El archivo principal.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="11.058123"
+         y="110.74056"
+         id="tspan17985">Es el que lanza toda</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="11.058123"
+         y="115.15029"
+         id="tspan17987">la aplicación.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="59.139099"
+       y="106.73902"
+       id="text18405"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="59.139099"
+         y="106.73902"
+         id="tspan18403">En esta carpeta</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="59.139099"
+         y="111.14874"
+         id="tspan23616">irían todos los</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="59.139099"
+         y="115.55847"
+         id="tspan23618">modulos.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="106.65954"
+       y="83.968361"
+       id="text24102"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="106.65954"
+         y="83.968361"
+         id="tspan24100">Modulo para</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="106.65954"
+         y="88.378082"
+         id="tspan24556">enviar correos.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="109.72554"
+       y="135.26749"
+       id="text25962"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="109.72554"
+         y="135.26749"
+         id="tspan27200">Modulo para</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="109.72554"
+         y="139.67722"
+         id="tspan27204">generar constancias.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="141.41512"
+       y="83.423836"
+       id="text27884"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="141.41512"
+         y="83.423836"
+         id="tspan27882">Archivo que abre</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="141.41512"
+         y="87.833557"
+         id="tspan28570">la interfaz del modulo.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#dfa131;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="153.20291"
+       y="134.89862"
+       id="text29040"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="153.20291"
+         y="134.89862"
+         id="tspan29036">Archivo que abre</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#dfa131;fill-opacity:1;stroke-width:0.110354"
+         x="153.20291"
+         y="139.30835"
+         id="tspan29038">la interfaz del modulo.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 172.29688,76.325864 h 11.32456"
+       id="path29042" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 180.57746,128.48199 h 11.32456"
+       id="path29044" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="186.03174"
+       y="77.723717"
+       id="text29048"><tspan
+         sodipodi:role="line"
+         id="tspan29046"
+         style="stroke-width:0.110354"
+         x="186.03174"
+         y="77.723717">etc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.41416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110354"
+       x="194.55714"
+       y="129.89928"
+       id="text30342"><tspan
+         sodipodi:role="line"
+         id="tspan30340"
+         style="stroke-width:0.110354"
+         x="194.55714"
+         y="129.89928">etc</tspan></text>
+  </g>
+</svg>
